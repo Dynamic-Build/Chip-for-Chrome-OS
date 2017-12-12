@@ -18,4 +18,4 @@ reliability of your application.
 * [Permissions](http://developer.chrome.com/apps/manifest.html#permissions)
 
 ## Screenshot
-![screenshot](Dynamic-Build/Chip-for-Chrome-OS/assets/screenshot_1280_800.png)
+![screenshot](Chip-for-Chrome-OS/assets/screenshot_1280_800.png)
