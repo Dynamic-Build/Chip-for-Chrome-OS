@@ -19,4 +19,4 @@ reliability of your application.
 
 ## Screenshot
 
-![Screenshot](Chip-for-Chrome-OS/assets/screenshot_1280_800.png)
+![screenshot](https://raw.githubusercontent.com/Dynamic-Build/Chip-for-Chrome-OS/master/assets/screenshot_1280_800.png)
