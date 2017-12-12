@@ -1,8 +1,7 @@
 # Chip for Chrome OS
 The Chip Browser for the Chrome Operating System!
 
-<a target="_blank" href="https://chrome.google.com/webstore/detail/edggnmnajhcbhlnpjnogkjpghaikidaa">![Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install this sample from the Chrome Web Store")</a>
-
+<a target="_blank" href="https://chrome.google.com/webstore/detail/edggnmnajhcbhlnpjnogkjpghaikidaa">![Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install Chip for Chrome OS from the Chrome Web Store")</a>
 
 # The browser itself
 
@@ -17,7 +16,6 @@ reliability of your application.
 ## Resources
 
 * [Permissions](http://developer.chrome.com/apps/manifest.html#permissions)
-
 
 ## Screenshot
 ![screenshot](Dynamic-Build/Chip-for-Chrome-OS/assets/screenshot_1280_800.png)
