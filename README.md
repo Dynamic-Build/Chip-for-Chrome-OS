@@ -18,4 +18,5 @@ reliability of your application.
 * [Permissions](http://developer.chrome.com/apps/manifest.html#permissions)
 
 ## Screenshot
+
 ![screenshot](Chip-for-Chrome-OS/assets/screenshot_1280_800.png)
