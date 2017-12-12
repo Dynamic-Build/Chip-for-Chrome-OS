@@ -1,5 +1,7 @@
 # Chip for Chrome OS
-The Chip Browser for the Chrome Operating System!
+The Chip Browser for the Chrome Operating System! The minimum version for it to work is Chrome OS 62 and will work on any version above Chrome OS 62.
+
+> Coming soon to Chrome OS 63!
 
 <a target="_blank" href="https://chrome.google.com/webstore/detail/edggnmnajhcbhlnpjnogkjpghaikidaa">![Try it now in CWS](https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton.png "Click here to install Chip for Chrome OS from the Chrome Web Store")</a>
 
