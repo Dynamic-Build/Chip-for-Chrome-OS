@@ -17,6 +17,7 @@ reliability of your application.
 
 ## Resources
 
+* [Webview](http://developer.chrome.com/apps/app_external.html#webview)
 * [Permissions](http://developer.chrome.com/apps/manifest.html#permissions)
 
 ## Screenshot
