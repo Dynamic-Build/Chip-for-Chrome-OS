@@ -1,5 +1,5 @@
 # Chip for Chrome OS
-The Chip Browser for the Chrome Operating System! The minimum version for it to work is Chrome OS 62 and will work on any version above Chrome OS 62.
+The Chip Browser for the Chrome Operating System! The minimum version for it to work is Chrome OS 62 and will work on any version above Chrome OS 62. The Chip Browser uses the Revor Engine and it's virtual processor to run it. Since an advanced browser needs advanced hardware How about you do the math!
 
 > Coming soon to Chrome OS 63!
 
