@@ -15,8 +15,13 @@
   "permissions": [
     "experimental",
     "browser",
-    "clipboard",
+    "webview",
     "audio",
-    "webview"
+    "notifications",
+    "tts",
+    "clipboard",
+    "clipboardRead",
+    "clipboardWrite",
+    "displaySource"
   ]
 }
