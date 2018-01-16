@@ -23,3 +23,6 @@ reliability of your computer.
 ## Screenshot
 
 ![screenshot](https://raw.githubusercontent.com/Dynamic-Build/Chip-for-Chrome-OS/master/assets/screenshot_1280_800.png)
+
+## Discord Webhook
+The github repository can be tracked through our discord server!
