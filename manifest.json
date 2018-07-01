@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Chip for Chrome OS",
-  "minimum_chrome_version": "63.0.3239.140",
+  "minimum_chrome_version": "64.0.0000.000",
   "version": "0.1.2",
   "icons": {
     "16": "icon_16.png",
